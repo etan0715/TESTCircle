@@ -18,7 +18,6 @@ jobs:
  
     steps:
       - checkout
-      		
  
       # Download and cache dependencies
       - restore_cache:
@@ -36,5 +35,3 @@ jobs:
         
       # run tests!
       - run: yarn test
-      		name: Test echo
-        	command: echo 'hello CircleCI000001'
