@@ -28,7 +28,7 @@ private class ZZ_AccountClassTest {
         List<Account> ret = [SELECT Id FROM Account];
         
         // わざとエラーにする
-        System.assertEquals(3, ret.size());
+        System.assertEquals(1, ret.size());
     }
     
     /**
