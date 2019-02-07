@@ -15,6 +15,7 @@ public class AccountClass {
         acc.name = 'Test' + getRandomString(5);
         insert acc;
         
+        // 作成した取引先返却
         return acc;
     }
     
