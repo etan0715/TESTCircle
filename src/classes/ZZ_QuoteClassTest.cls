@@ -3,7 +3,7 @@ private class ZZ_QuoteClassTest {
 
     /**
      * テスト対象
-     * createQuote
+     * createQuote1
      *
      * 条件
      * 権限ありのユーザ
