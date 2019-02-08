@@ -3,7 +3,7 @@ public class AccountClass {
     /**
      * コンストラクタ
      */
-    public AccountClass() { 
+    public AccountClass() {  
     }
     
     /**
